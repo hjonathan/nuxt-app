@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-github-pages-example",
+  "name": "nuxt-app",
   "version": "1.0.0",
-  "description": "Nuxt Github Pages Example Application",
+  "description": "Nuxt Application",
   "author": "Jeremy Bratcher",
   "private": true,
   "scripts": {
